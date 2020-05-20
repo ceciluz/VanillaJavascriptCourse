@@ -6,7 +6,7 @@ Project 1  --Form Validator -- https://codepen.io/ceciluz/pen/jObYENB
 
 Project 2  --Movie Seat Booking --https://codepen.io/ceciluz/pen/WNQdMqW
 
-Project 3  --Custom Video Play -- (No preview)
+Project 3  --Custom Video Play -- (No preview avaible)
 
 Project 4  --Exchange Rate Calculator-- https://codepen.io/ceciluz/pen/vYNdwyG
 
