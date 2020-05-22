@@ -30,7 +30,7 @@ Project 13 --Speech Text Reader -- https://codepen.io/ceciluz/pen/OJydqZd
 
 Project 14 --Memory Cards--https://codepen.io/ceciluz/pen/YzydXYx 
 
-Project 15 --Lyrics App Search -- Coming Soon
+Project 15 --Lyrics App Search -- https://codepen.io/ceciluz/pen/rNOPgBZ
 
 Project 16 --Relaxer App -- Coming Soon
 
