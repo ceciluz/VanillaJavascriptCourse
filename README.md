@@ -20,7 +20,7 @@ Project 8  --Meal Finder--https://codepen.io/ceciluz/pen/WNQKKep
 
 Project 9  --Expenser Tracker -- https://codepen.io/ceciluz/pen/WNQgQYM
 
-Project 10 --Music Player-- Coming Soon
+Project 10 --Music Player-- (No preview avaible)
 
 Project 11 --Infinte Scroll Post-- https://codepen.io/ceciluz/pen/WNQYyoY
 
