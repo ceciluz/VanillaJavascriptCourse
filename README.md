@@ -26,7 +26,7 @@ Project 11 --Infinte Scroll Post-- https://codepen.io/ceciluz/pen/WNQYyoY
 
 Project 12 --Typing Game-- https://codepen.io/ceciluz/pen/WNQLKje
 
-Project 13 --Speech Text Reader -- Coming Soon
+Project 13 --Speech Text Reader -- https://codepen.io/ceciluz/pen/OJydqZd
 
 Project 14 --Memory Cards--https://codepen.io/ceciluz/pen/YzydXYx 
 
