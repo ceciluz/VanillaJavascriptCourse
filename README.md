@@ -32,9 +32,9 @@ Project 14 --Memory Cards--https://codepen.io/ceciluz/pen/YzydXYx
 
 Project 15 --Lyrics App Search -- https://codepen.io/ceciluz/pen/rNOPgBZ
 
-Project 16 --Relaxer App -- Coming Soon
+Project 16 --Relaxer App -- https://codepen.io/ceciluz/pen/MWaxrNr
 
-Project 17 --Breakout Game -- Coming Soon
+Project 17 --Breakout Game -- https://codepen.io/ceciluz/pen/RwWdMgx
 
 Project 18 --New Year Countdown -- Coming Soon 
 
