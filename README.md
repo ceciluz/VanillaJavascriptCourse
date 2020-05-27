@@ -36,7 +36,7 @@ Project 16 --Relaxer App -- https://codepen.io/ceciluz/pen/MWaxrNr
 
 Project 17 --Breakout Game -- https://codepen.io/ceciluz/pen/RwWdMgx
 
-Project 18 --New Year Countdown -- Coming Soon 
+Project 18 --New Year Countdown -- https://codepen.io/ceciluz/pen/bGVJgEM
 
 Project 19 --Sortable List-- Coming Soon
 
