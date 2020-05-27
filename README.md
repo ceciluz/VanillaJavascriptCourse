@@ -38,6 +38,6 @@ Project 17 --Breakout Game -- https://codepen.io/ceciluz/pen/RwWdMgx
 
 Project 18 --New Year Countdown -- https://codepen.io/ceciluz/pen/bGVJgEM
 
-Project 19 --Sortable List-- Coming Soon
+Project 19 --Sortable List-- https://codepen.io/ceciluz/pen/LYpodWV
 
-Project 20 --Speak Game Guessing Number-- Coming Soon
+Project 20 --Speak Game Guessing Number-- (No preview avaible)
