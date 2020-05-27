@@ -1,6 +1,6 @@
 # VanillaJavascriptCourse
 
-I am doing the Vanilla Javascript course by Brad Traversy.
+Vanilla Javascript course by Brad Traversy.
 
 Project 1  --Form Validator -- https://codepen.io/ceciluz/pen/jObYENB 
 
